@@ -28,6 +28,10 @@ docker exec -it news_briefing bash
 python3 app/main.py
 ```
 
+### 3. confirm process result  
+
+A new dir name **data** will be created, all results and log will be saved in this folder.
+
 ### Optional arguments
 ```shell
   -h, --help           Show help message.
