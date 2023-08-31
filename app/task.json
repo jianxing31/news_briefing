@@ -1,0 +1,8 @@
+{
+    "Start_link": [
+        "who.int"
+    ],
+    "Task_name": "my_task",
+    "Reg_definition": "website_regex.json",
+    "Crawl_history": "../data/crawl_history.json"
+}

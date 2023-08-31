@@ -1,0 +1,27 @@
+{
+    "who.int": [
+        {
+            "Link_extract_re": [
+                {
+                    "name": [
+                        "div"
+                    ],
+                    "attrs": {
+                        "class": "list-view--item vertical-list-item"
+                    },
+                    "a_href": true
+                }
+            ],
+            "Next_page_re": [
+                {
+                    "path": "//a[@class=\"k-link k-pager-nav\"]",
+                    "update_page": true
+                }
+        ],
+            "Content_extract_re": [],
+            "Links": [
+                "https://www.who.int/news"
+            ]
+        }
+    ]
+}
