@@ -32,6 +32,7 @@ python3 app/main.py
 
 A new dir name **data** will be created, all results and log will be saved in this folder.
 
+
 ### Optional arguments
 ```shell
   -h, --help           Show help message.
@@ -41,5 +42,5 @@ A new dir name **data** will be created, all results and log will be saved in th
 ```
 
 ## What else is done with this repo
-All videos in [my youtube channel](https://www.youtube.com/@happy_ltb/videos) were also collected, processed and uploaded with this repo.
+All videos in [my youtube channel](https://www.youtube.com/@happy_ltb/videos) were also collected, processed and uploaded with this repo. I just added video download function and upload function.
 ![youtube_page.png](https://github.com/jianxing31/news_briefing/blob/master/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-08-21%2023.50.24.png)
