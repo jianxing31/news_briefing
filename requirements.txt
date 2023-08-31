@@ -1,0 +1,9 @@
+bs4==0.0.1
+selenium==4.9.1
+pandas==1.0.1
+numpy==1.23.1
+transformers==4.8.2
+torch==2.0.1
+readability-lxml==0.8.1
+sentencepiece==0.1.95
+openpyxl==3.0.6
