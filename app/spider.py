@@ -164,7 +164,7 @@ class Spider(Base):
                 pass
 
         print("Url got: ", len(extr_url_headlines))
-        return extr_url_headlines[:2], target_next_link[:2]
+        return extr_url_headlines[:], target_next_link[:]
 
     def driver_update_link(self, link, path, download_res):
         # update website to get more information
